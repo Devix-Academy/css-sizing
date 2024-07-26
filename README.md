@@ -41,7 +41,7 @@ Crea un párrafo que tenga un ancho del 70% de su contenedor, pero que nunca sup
 ### Ejercicio # 4: La lista ordenada responsiva
 Crea una lista ordenada que ocupe el 50% del ancho de la página en pantallas grandes, pero que tenga un ancho mínimo de 300 píxeles para evitar que sea demasiado estrecha en pantallas pequeñas.
 
->> Pista: Simula una pantalla grande o pequeña agrandando o achicando la ventana del navegador
+> Pista: Simula una pantalla grande o pequeña agrandando o achicando la ventana del navegador
     
 ### Ejercicio # 5: El formulario flexible
 Diseña un formulario que contenga un input de texto, un textarea y un botón de envío. El formulario debe tener un ancho del 90% de su contenedor, pero nunca superar los 600 píxeles. El input y el textarea deben ocupar todo el ancho disponible del formulario, y el textarea debe tener una altura máxima de 150 píxeles.
