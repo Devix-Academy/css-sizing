@@ -46,6 +46,6 @@ Crea una lista ordenada que ocupe el 50% del ancho de la página en pantallas gr
 ### Ejercicio # 5: El formulario flexible
 Diseña un formulario que contenga un input de texto, un textarea y un botón de envío. El formulario debe tener un ancho del 90% de su contenedor, pero nunca superar los 600 píxeles. El input y el textarea deben ocupar todo el ancho disponible del formulario, y el textarea debe tener una altura máxima de 150 píxeles.
 
-**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
+**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML y CSS.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en CSS y lleva tus proyectos web al siguiente nivel.
