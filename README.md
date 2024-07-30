@@ -24,8 +24,8 @@ Estás a punto de sumergirte en un conjunto de ejercicios prácticos diseñados 
 
 3. Usar un archivo .html y un archivo .css para cada ejercicio:
 
-    * Para cada ejercicio, crea un nuevo archivo con la extensión .html. Por ejemplo, para el ejercicio 1, crea un archivo llamado ejercicio1.html y así sucesivamente con cada ejercicio.
-    * En cada archivo .html, escribe el código HTML correspondiente al ejercicio específico.
+     * Para cada ejercicio, crea un nuevo archivo con la extensión .html. Por ejemplo, para el ejercicio 1, crea un archivo llamado ejercicio1.html y otra llamado ejercicio1.css y así sucesivamente con cada ejercicio.
+    * En cada archivo .html, escribe el código HTML correspondiente al ejercicio específico al igual con el archivo .css.
 
 ## Lista de Ejercicios
 
